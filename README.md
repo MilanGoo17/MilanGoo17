@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 17-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I am a 17-year-old boy with the intention of improving as a Computer Vision engineer. I love creating python, artificial intelligence and machine learning scripts.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning custom object detection
@@ -80,7 +80,7 @@ I'm 17-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 
 
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
+[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31ydiyoleg5b2mw3d3eml3lln75a)
 
 
 ------
