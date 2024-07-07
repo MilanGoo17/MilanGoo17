@@ -4,14 +4,14 @@
 
 I'm 17-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
+- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning custom object detection
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for a good project
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 📫 How to reach me: [milangoo112305@gmail.com](mailto:milangoo112305@gmail.com)
 - 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -42,34 +42,15 @@ I'm 17-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
+
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-<a href="https://github.com/taulantxhakli/taulantxhakli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taulantxhakli&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/taulantxhakli/taulantxhakli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taulantxhakli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
-</a>
-
-<a href="https://github.com/taulantxhakli/Discrimination">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=Discrimination&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/taulantxhakli/taulantxhakli.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=taulantxhakli.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
-</a>  
 
 
 
-## Watch my contribution graph being eaten by a snake🐍
 
-<p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 <details>
 <summary></summary>
@@ -87,14 +68,9 @@ I'm 17-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/MilanGoo17?&logoColor=red&style=social">](https://github.com/MilanGoo17?tab=followers)
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
@@ -108,7 +84,6 @@ I'm 17-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 
 ------
-
 
 Credit: [Sourab Maity](https://github.com/sourabmaity)
 Last Edited on: 02/07/2022
