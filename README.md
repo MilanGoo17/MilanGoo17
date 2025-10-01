@@ -89,11 +89,9 @@ I am a 17-year-old boy with the intention of improving as a Computer Vision engi
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-## Spotify Playing 🎧
 
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31ydiyoleg5b2mw3d3eml3lln75a)
+## Spotify 🎧
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ydiyoleg5b2mw3d3eml3lln75a)
 
 
 ------
